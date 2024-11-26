@@ -1,12 +1,14 @@
 # | Hello World 👋
 ### My Name is Nicholas Christian Dianto
 <p>I am an Indonesian Programmer and Generation 16th of Software Enginner</p>
-</p>Currently I am focusing on Learning Machine Learning</p>
+</p>Currently I am focusing on Learning Machine Learning 🤖</p>
 
 ![Alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
 
 ###
-# 🧑‍💻 | Programming Languange
+
+# Skill Mastery 🧑‍💻
+## 🗨️ | Programming Languange
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -25,8 +27,7 @@
   <img width="12" />
 </div>
 
-###
-# 🛠️ | Programming Tools
+## 🛠️ | Programming Tools
 
 <div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
