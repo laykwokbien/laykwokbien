@@ -7,7 +7,6 @@
   <img src="https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true" alt="background"  />
 </div>
 
-![Alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
 ###
 
 # Skill Mastery 🧑‍💻
