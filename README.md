@@ -10,6 +10,8 @@
 
 ###
 
+<hr>
+
 # Skill Mastery 🧑‍💻
 ## 🗨️ | Programming Languange
 
