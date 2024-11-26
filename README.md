@@ -1,7 +1,7 @@
 # | Hello World 👋
 My Name is Nicholas Christian Dianto
 
-<img src="Mountain View.gif" alt="Background" />
+![Alt text](Mountain View.gif)
 
 ###
 
