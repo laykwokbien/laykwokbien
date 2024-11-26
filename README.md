@@ -2,7 +2,7 @@
 ### My Name is Nicholas Christian Dianto
 <p>I am an Indonesian Programmer and Generation 16th of Software Enginner</p>
 </p>Currently I am focusing on Learning Machine Learning 🤖</p>
-
+'\n'
 <div align='center'>
   <img src="https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true" alt="background"  />
 </div>
