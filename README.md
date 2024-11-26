@@ -1,7 +1,8 @@
 # | Hello World 👋
 My Name is Nicholas Christian Dianto
 
-![Alt text](Mountain View.gif)
+![alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
+
 
 ###
 
