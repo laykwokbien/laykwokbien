@@ -12,7 +12,7 @@
 
 <hr>
 
-# Skill Mastery 🧑‍💻
+# | Skill Mastery 🧑‍💻
 ## 🗨️ | Programming Languange
 
 <br>
