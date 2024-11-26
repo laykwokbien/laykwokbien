@@ -35,6 +35,6 @@ My Name is Nicholas Christian Dianto
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6en9od5t9lfgwybm88g3bsg5)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6en9od5t9lfgwybm88g3bsg5&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6en9od5t9lfgwybm88g3bsg5&unique={true|1|on|yes})
+# | Recently Playing
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6en9od5t9lfgwybm88g3bsg5&width={500})
