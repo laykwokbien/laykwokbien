@@ -1,5 +1,7 @@
 # | Hello World 👋
 My Name is Nicholas Christian Dianto
+I am an Indonesian Programmer and Generation 16th of Software Enginner
+Currently I am focusing on Learning Machine Learning
 
 ![Alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
 
