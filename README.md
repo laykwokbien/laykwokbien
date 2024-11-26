@@ -4,9 +4,10 @@
 </p>Currently I am focusing on Learning Machine Learning 🤖</p>
 
 <div align='center'>
-![Alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
+  <img src="https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true" alt="background"  />
 </div>
 
+![Alt text](https://github.com/laykwokbien/laykwokbien/blob/main/Mountain%20View.gif?raw=true)
 ###
 
 # Skill Mastery 🧑‍💻
